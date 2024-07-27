@@ -1,4 +1,4 @@
-![Bienefc's GitHub Banner]((https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif))        
+![Bienefc's GitHub Banner](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://pbs.twimg.com/media/Efw4vTuUwAAvmp6.jpg:large)        
 
 <h1 align="center">Hi 👋, I'm Bienefc</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
