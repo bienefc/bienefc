@@ -1,4 +1,4 @@
-![Bienefc's GitHub Banner](https://pbs.twimg.com/media/Efw4vTuUwAAvmp6.jpg)        
+![Bienefc's GitHub Banner](https://i.imgur.com/KV3sXH2.jpeg)        
 
 <h1 align="center">Hi 👋, I'm Bienefc</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
