@@ -1,5 +1,3 @@
-![Bienefc's GitHub Banner](https://i.imgur.com/KV3sXH2.jpeg)        
-
 <h1 align="center">Hi 👋, I'm Bienefc</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
@@ -12,6 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bienefc&show_icons=true&locale=en&layout=compact" alt="bienefc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bienefc&show_icons=true&locale=en" alt="bienefc" /></p>
-
-<img align="left" alt="Coding" width="400" src="https://64.media.tumblr.com/0da4e280ccb3013c7cce3729b97c1a52/tumblr_ohkiubF3fV1u6rreio1_250.gif">
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/b8d514fde54a2c8e4e8f1d1ed58df7fb/tumblr_nihdxc0wEq1rqdt8to1_500.gif">
