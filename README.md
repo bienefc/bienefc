@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bienefc</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate frontend developer from the earth</h3>
 
 <p align="left">
 </p>
