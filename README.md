@@ -6,7 +6,7 @@
 <p><strong>Skills</strong></p>
 
 <ul>
-<li>✨ Mainly javascript put interested to any modern stack ✨</li>
+<li>✨ Mainly javascript but interested to any modern stack ✨</li>
 <li>Html | Css | Javascript | PHP | Laravel | Typescript | Reactjs | Node | Express | SQL | Python | Java | Git</li>
 </ul>
 <br>
