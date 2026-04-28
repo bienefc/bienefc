@@ -16,10 +16,8 @@
 
 <!-- STATS:START -->
 <!-- Last updated: Tue, 28 Apr 2026 15:53:44 GMT -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bienefc&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bienefc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienefc&layout=compact&theme=dark&hide_border=true)
-![](https://komarev.com/ghpvc/?username=bienefc&color=green)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bienefc&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!-- STATS:END -->
 
 <br>
