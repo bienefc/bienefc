@@ -29,8 +29,8 @@ function buildStatsBlock() {
   const lastUpdated = new Date().toUTCString();
 
   return `<!-- Last updated: ${lastUpdated} -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=${username}&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=dark&hide_border=true)`;
+![GitHub Stats](https://github-readme-stats-ten-gray-29.vercel.app/api?username=${username}&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-ten-gray-29.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=dark&hide_border=true)`;
 }
 
 // ─── Weather Block ───────────────────────────────────────────────────────────
