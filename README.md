@@ -5,10 +5,6 @@
 
 <p><strong>Skills</strong></p>
 
-<ul>
-<li>Html | Css | Javascript | PHP | Laravel | Typescript | Reactjs | Node | Express | SQL | Python | Java | Git</li>
-</ul>
-
 <!-- WEATHER:START -->
 > 🌤️ **Kuala Lumpur weather on 2026-04-28:** Clear, 26°C, humidity 85%
 <!-- WEATHER:END -->
