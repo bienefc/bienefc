@@ -20,6 +20,7 @@
 ![Top Langs](https://github-readme-stats-ten-gray-29.vercel.app/api/top-langs/?username=bienefc&layout=compact&theme=dark&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=bienefc&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bienefc&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://raw.githubusercontent.com/bienefc/bienefc/output/github-contribution-grid-snake-dark.svg)
 <!-- STATS:END -->
 
 <br>
