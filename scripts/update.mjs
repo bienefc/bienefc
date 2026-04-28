@@ -25,11 +25,11 @@ function formatDate(date) {
 // ─── GitHub Stats Block ──────────────────────────────────────────────────────
 
 function buildStatsBlock() {
-  const username = process.env.GITHUB_ACTOR || "your-username";
+  const username = process.env.GITHUB_ACTOR || "bienefc";
   const lastUpdated = new Date().toUTCString();
 
   return `<!-- Last updated: ${lastUpdated} -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=${username}&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=dark&hide_border=true)`;
 }
 
