@@ -8,6 +8,16 @@
 <ul>
 <li>Html | Css | Javascript | PHP | Laravel | Typescript | Reactjs | Node | Express | SQL | Python | Java | Git</li>
 </ul>
+
+<!-- WEATHER:START -->
+<!-- WEATHER:END -->
+
+<!-- QUOTE:START -->
+<!-- QUOTE:END -->
+
+<!-- STATS:START -->
+<!-- STATS:END -->
+
 <br>
 <!-- <p><strong>Portfolio</strong>: <a href="soon...">soon...</a></p> -->
 </div>
