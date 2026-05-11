@@ -7,15 +7,15 @@
 </div>
 
 <!-- WEATHER:START -->
-> 🌤️ **Kuala Lumpur weather on 2026-05-10:** Patchy rain nearby, 28°C, humidity 78%
+> 🌤️ **Kuala Lumpur weather on 2026-05-11:** Partly cloudy, 27°C, humidity 79%
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
-> 💬 *"The majority of what you want will come from the minority of what you do."* — **Gary Keller**
+> 💬 *"We don't stop playing because we grow old; we grow old because we stop playing."* — **George Bernard Shaw**
 <!-- QUOTE:END -->
 
 <!-- STATS:START -->
-<!-- Last updated: Sun, 10 May 2026 02:36:24 GMT -->
+<!-- Last updated: Mon, 11 May 2026 02:46:20 GMT -->
 ![GitHub Stats](https://github-readme-stats-ten-gray-29.vercel.app/api?username=bienefc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-ten-gray-29.vercel.app/api/top-langs/?username=bienefc&layout=compact&theme=dark&hide_border=true)
 <!-- STATS:END -->
 
