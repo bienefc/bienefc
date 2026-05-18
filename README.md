@@ -7,15 +7,15 @@
 </div>
 
 <!-- WEATHER:START -->
-> 🌤️ **Kuala Lumpur weather on 2026-05-17:** Light rain shower, 27°C, humidity 86%
+> 🌤️ **Kuala Lumpur weather on 2026-05-18:** Partly Cloudy , 26°C, humidity 88%
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
-> 💬 *"It's not whether you get knocked down, its whether you get back up."* — **Vince Lombardi**
+> 💬 *"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."* — **Lolly Daskal**
 <!-- QUOTE:END -->
 
 <!-- STATS:START -->
-<!-- Last updated: Sun, 17 May 2026 02:43:52 GMT -->
+<!-- Last updated: Mon, 18 May 2026 02:53:56 GMT -->
 ![GitHub Stats](https://github-readme-stats-ten-gray-29.vercel.app/api?username=bienefc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-ten-gray-29.vercel.app/api/top-langs/?username=bienefc&layout=compact&theme=dark&hide_border=true)
 <!-- STATS:END -->
 
