@@ -7,15 +7,15 @@
 </div>
 
 <!-- WEATHER:START -->
-> 🌤️ **Kuala Lumpur weather on 2026-05-27:** Patchy rain nearby, 28°C, humidity 73%
+> 🌤️ **Kuala Lumpur weather on 2026-05-28:** Partly Cloudy , 28°C, humidity 74%
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
-> 💬 *"Being wrong opens us up to the possibility of change."* — **Mark Manson**
+> 💬 *"You just can't beat the person who never gives up."* — **Babe Ruth**
 <!-- QUOTE:END -->
 
 <!-- STATS:START -->
-<!-- Last updated: Wed, 27 May 2026 02:58:42 GMT -->
+<!-- Last updated: Thu, 28 May 2026 02:45:54 GMT -->
 ![GitHub Stats](https://github-readme-stats-ten-gray-29.vercel.app/api?username=bienefc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-ten-gray-29.vercel.app/api/top-langs/?username=bienefc&layout=compact&theme=dark&hide_border=true)
 <!-- STATS:END -->
 
