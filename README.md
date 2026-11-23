@@ -7,15 +7,15 @@
 </div>
 
 <!-- WEATHER:START -->
-> 🌤️ **Kuala Lumpur weather on 2026-11-22:** Light rain shower, 31°C, humidity 68%
+> 🌤️ **Kuala Lumpur weather on 2026-11-23:** Light rain shower, 33°C, humidity 57%
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
-> 💬 *"Peace is not the absence of conflict, but the ability to cope with it."* — **Unknown**
+> 💬 *"Have a vision. Be demanding."* — **Colin Powell**
 <!-- QUOTE:END -->
 
 <!-- STATS:START -->
-<!-- Last updated: Sun, 22 Nov 2026 04:49:13 GMT -->
+<!-- Last updated: Mon, 23 Nov 2026 05:28:49 GMT -->
 ![GitHub Stats](https://github-readme-stats-ten-gray-29.vercel.app/api?username=bienefc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-ten-gray-29.vercel.app/api/top-langs/?username=bienefc&layout=compact&theme=dark&hide_border=true)
 <!-- STATS:END -->
 
