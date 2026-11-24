@@ -7,15 +7,15 @@
 </div>
 
 <!-- WEATHER:START -->
-> 🌤️ **Kuala Lumpur weather on 2026-11-23:** Light rain shower, 33°C, humidity 57%
+> 🌤️ **Kuala Lumpur weather on 2026-11-24:** Light rain shower, 27°C, humidity 88%
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
-> 💬 *"Have a vision. Be demanding."* — **Colin Powell**
+> 💬 *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."* — **Robert Kiyosaki**
 <!-- QUOTE:END -->
 
 <!-- STATS:START -->
-<!-- Last updated: Mon, 23 Nov 2026 05:28:49 GMT -->
+<!-- Last updated: Tue, 24 Nov 2026 08:07:16 GMT -->
 ![GitHub Stats](https://github-readme-stats-ten-gray-29.vercel.app/api?username=bienefc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-ten-gray-29.vercel.app/api/top-langs/?username=bienefc&layout=compact&theme=dark&hide_border=true)
 <!-- STATS:END -->
 
